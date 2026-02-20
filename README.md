@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alwi
 - 👀 I’m interested in building machine learning models.
 - 🌱 I’m currently learning machine learning models and automated data analysis
-- 📫 How to reach me ...
+  
 
 
 
